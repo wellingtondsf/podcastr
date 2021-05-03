@@ -17,7 +17,6 @@
 
 ## 🚀 Aplicação
 
-O Podcastr é uma aplicação desenvolvida para ouvir podcasts sobre programação além de outros conteudos para o desenvolvedor.
 
 ## 🛠 Tecnologias
 
@@ -29,8 +28,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 💻 Projeto
 
-
-
+O Podcastr é uma aplicação desenvolvida para ouvir podcasts sobre programação além de outros conteudos para o desenvolvedor.
 
 ## ✨ Como executar
 
