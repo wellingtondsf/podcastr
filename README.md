@@ -17,6 +17,10 @@
 
 ## 🚀 Aplicação
 
+<h1 align="center">
+  <img alt="Logo" src="./public/application1.png">
+</h1>
+
 
 ## 🛠 Tecnologias
 
